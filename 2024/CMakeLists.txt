@@ -45,3 +45,7 @@ add_executable(
 add_executable(
   Day11
   11/main.cpp)
+
+add_executable(
+  Day12
+  12/main.cpp)
